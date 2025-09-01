@@ -19,6 +19,7 @@ You can use any available Node.js library from within Ruby.
 
 1. Install Ruby dependencies:
    ```bash
+   gem install bundler
    bundle install
    ```
 
