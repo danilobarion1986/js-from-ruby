@@ -1,0 +1,3 @@
+# Ignore node_modules in all directories but the JS functions dir
+node_modules/
+!/js_functions/node_modules

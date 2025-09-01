@@ -1,0 +1,12 @@
+{
+  "name": "js-functions",
+  "version": "1.0.0",
+  "description": "JS functions to be called from Ruby",
+  "type": "module",
+  "dependencies": {
+    "hast-util-from-html": "^2.0.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
